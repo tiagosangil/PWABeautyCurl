@@ -1,0 +1,68 @@
+
+@font-face  {
+	 font-family: TheBlacklist;
+	 src: url('TheBlacklist.tff');
+}
+
+
+
+body  {
+	background-image:url(file:Site%20Beauty%20Curl/Arquivos%20do%20Site/paisagem-com-praia-4.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	opacity:;
+}
+.fonte{
+	color:#e00f0f;	
+	font-size:110px;
+}
+
+p{
+	color:#00000;
+	font-size:40px;
+	font-family:"TheBlacklist";
+	font-weight:bold;
+	font-style:italic;
+	text-decoration="underlyne";
+	font:bold italic 30px/36px Verdana;
+}
+
+h2{
+	color:#fff;
+	font-size:35px;
+	font-family:"TheBlacklist";
+	font-weight:bold;
+	font-style:italic;
+}
+
+h1{
+	color:#fff;
+	font-size:35px;
+	font-family:"TheBlacklist";
+	font-weight:bold;
+	font-style:italic;;
+}
+
+
+div {
+	widht:300
+	height:300
+	background
+	
+	
+<nav>
+@media screen and (min-width:600px) {
+  nav {
+    float: left;
+    width: 25%;
+  }
+  section {
+    margin-left: 25%;
+  }
+}
+@media screen and (max-width:599px) {
+  nav li {
+    display: inline;
+  }
+}
+</nav>

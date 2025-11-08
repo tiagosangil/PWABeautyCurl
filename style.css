@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f8ff; /* AliceBlue - um azul muito claro */
+    font-family: sans-serif;
+}
+
+#app {
+    background-color: #add8e6; /* LightBlue */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    max-width: 90%;
+    box-sizing: border-box; /* Garante que padding não afete a largura total */
+}

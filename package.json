@@ -1,0 +1,18 @@
+{
+  "name": "pwa-template",
+  "version": "1.0.0",
+  "description": "A clean PWA boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "devcert": "^1.2.2"
+  }
+}

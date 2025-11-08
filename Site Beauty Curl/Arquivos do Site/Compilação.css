@@ -1,0 +1,38 @@
+
+@font-face  {
+	 font-family: TheBlacklist;
+	 src: url('TheBlacklist.tff');
+}
+
+
+
+body  {
+	background-image:url(paisagem-com-praia-4.jpg);
+	<link href="Site Beauty Curl\Arquivos do Site\paisagem-com-praia-4.jpg" rel="stylesheet">
+}
+
+p{
+	color:#00000;
+	font-size:40px;
+	font-family:"TheBlacklist";
+	font-weight:bold;
+	font-style:italic;
+	text-decoration="underlyne";
+	font:bold italic 30px/36px Verdana;
+}
+
+h3{
+	color#00000;
+	font-size:80px;
+	font-family:"TheBlacklist";
+	font-weight:bold;
+	font-style:italic;
+	font:bold italic 72/90px Verdana;
+	text-align: center;
+}
+
+div {
+	widht:300
+	height:300
+	background:
+}

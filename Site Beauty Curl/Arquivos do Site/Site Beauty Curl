@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="Abrir.css" rel="stylesheet">
+   <title>Beauty Curl</title>
+   <link href="new 1".css" rel="stylesheet">
+  </head>
+  <body>
+  <img src="Site Beauty Curl\Arquivos do Site\Logo_BeautyCurl.jpg" alt="Texto alternativo" title="BeautyCurl Logo" id = "componentes"/>
+  <img src="Site Beauty Curl\Arquivos do Site\1-sou-cachos-modelados_agrupados.jpg" alt="Texto alternativo" title="Linha de produtos capilares Sou" id = "componentes"/>
+	<img src="Site Beauty Curl\Arquivos do Site\LINHA-CACHOS-PODEROSOS-GARNIER.jpg" alt="Texto alternativo" title="Linha de Produtos Cachos Poderoso Garnier" id = "componentes"/>
+	 <h2>Bem-vindo à Beauty Curl, seu site de produtos para cabelos cacheados.</h2>
+   <h1>Beauty Curl, o melhor para seus cabelos cacheados.
+   <h1>Cadastre-se abaixo para receber ofertas e nossos produtos</h1>
+   <h3>Nome</h3><h3><input type="text" value="Nome"</h3>
+   <h3>Endereço</h3><h3><input type="text" value="Endereço"</h3>
+   <h3>Telefone</h3><h3><input type="text" value="Telefone"</h3>
+   <h3>Email</h3><h3><input type="text" value="Email"</h3>
+    <h1>Busque aqui seu produto</h1>
+	<input type="text" value="Digite o que você procura"> <img src="Site Beauty Curl\lupa.jpg" alt="Texto alternativo" title="Pesquisar item" id = "componentes"/>
+   <h1>Menu</h1>
+   <h2><a href="file:\Cremes.html">Cremes para pentear</a></h2>
+   <h2><a href="#id">Tratamentos</a></h2>
+   <h2><a href="#id">Shampoos</a></h2>
+   <h2><a href="#id">Condicionadores</a></h2>
+   <h2><a href="#id">Reaparadores</a></h2>
+   <h2><a href="#id">Gel</a></h2>
+   <ul>	
+	<img src="Site Beauty Curl\Arquivos do Site\unhasdistiletuMANO.jpg" alt="Texto alternativo" title="Cabelos Cacheados" id = "componentes"/>
+	<img src="Site Beauty Curl\Arquivos do Site\1_fjs_9961-90467.jpg" alt="Texto alternativo" title="Cabelos Cacheados" id = "componentes"/>
+		</tr>
+	<table>
+	  <thread>
+	  <tr>
+	     <th>Produto</th>
+		 <th>Preço</th>
+		 <th>Quantidade</th>
+	   </tr>
+	   </thread>
+	   </tbody>
+	     <tr>
+		   <td>Ryzen Threadripper</td>
+		   <td>R$3.500,00</td>
+		   <td>1</td>
+		 </tr>
+		 </thread>
+		 </tbody>
+		 <tr>
+		 <td>Corei5 8400</td>
+		   <td>R$850,00</td>
+		   <td>1</td>
+	</ul>
+	 <img src="Site Beauty Curl\Arquivos do Site\bandeiras.png" alt="Texto alternativo" title="Bandeiras de cartões site" id = "bandeiras de cartões"/>
+	<embed wmode="transparent" src="https://www.xatech.com/web_gear/chat/chat.swf" quality="high" width="800" height="600" name="chat" FlashVars="id=219646985" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://xat.com/update_flash.php" /><br><small><a target="_BLANK" href="https://xat.com/web_gear/?cb">Get your own Chat Box!</a> <a target="_BLANK" href="https://xat.com/web_gear/chat/go_large.php?id=219646985">Go Large!</a></small><br>
+  </body>
+ </html>  
